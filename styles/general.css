@@ -1,0 +1,41 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap');
+
+
+/**/
+body{
+    background-image: url(/Lazarus/styles/images/dark_wood_background.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 1800px 800px;
+    margin-bottom: 1500px;
+}
+
+p{
+    margin: 0;
+}
+
+.main-content{
+    background-color: white;
+    line-height: 20px;
+    margin-top: 175px;
+    margin-bottom: 100px;
+    margin-left: 45px;
+    margin-right: 45px;
+    text-align: center;
+    font-size: 15px;
+}
+.contact-page{
+
+    margin-top: 200px;
+    display: flex;
+    flex-direction: column;    
+}
+.contact-info{
+    
+    font-size: 25px;
+}
+
+
