@@ -55,7 +55,8 @@
 }
 .menu-items{
     
-    margin-right: 45px;
+    justify-content: center;
+    padding-right: 2%;
 }
 .menu-link{
     color: white;
