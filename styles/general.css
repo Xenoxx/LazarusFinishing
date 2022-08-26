@@ -39,9 +39,10 @@ p{
 }
 .contact-page{
 
-    margin-top: 200px;
+    margin-top: 10px;
     display: flex;
     flex-direction: column;    
+    line-height: 35px;
 }
 .contact-info{
     
