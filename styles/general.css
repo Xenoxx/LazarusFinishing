@@ -12,6 +12,12 @@ body{
     background-size: 1800px 800px;
     margin-bottom: 1500px;
 }
+@media (max-width: 767px) {
+    .body {
+    
+        background-attachment: initial;
+    
+    }}
 
 p{
     margin: 0;
