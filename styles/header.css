@@ -1,7 +1,6 @@
 .header{
     font-family: Cinzel;
     background-image: url(images/wood2.jpeg);
-    
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: center;
@@ -17,7 +16,6 @@
     border-bottom: solid;
     border-bottom-color: white;
 
-    font-family: Cinzel;
     
 }
 .title_container{
